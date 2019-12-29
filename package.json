@@ -1,0 +1,10 @@
+{
+  "name": "warbler",
+  "version": "1.0.0",
+  "description": "Twitter Reddit clone",
+  "main": "server.js",
+  "repository": "git@github.com:Mgsignorelli/warbler.git",
+  "author": "Micaela Signorelli <m.signorelli@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
