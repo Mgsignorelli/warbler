@@ -6,5 +6,8 @@
   "repository": "git@github.com:Mgsignorelli/warbler.git",
   "author": "Micaela Signorelli <m.signorelli@gmail.com>",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
