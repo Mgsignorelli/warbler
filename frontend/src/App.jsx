@@ -1,10 +1,16 @@
 import React from 'react';
 import './App.scss';
-import {Container} from "reactstrap";
+import {Col, Container, Row} from "reactstrap";
 
 function App() {
   return (
-    <Container/>
+    <Container>
+      <Row>
+        <Col>
+          <h1>Warbler</h1>
+        </Col>
+      </Row>
+    </Container>
   );
 }
 
